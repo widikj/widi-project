@@ -1,5 +1,11 @@
 public class HelloWorld{
 public static void main(){
 System.out.println("hello world);
+
+String nama ="iqbal firdaus bachri";
+int umur = 18;
+
+System.out.println("nama :" + nama + "Umur :" + umur);
+
 }
 }
