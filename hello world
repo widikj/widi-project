@@ -4,8 +4,9 @@ System.out.println("hello world);
 
 String nama ="iqbal firdaus bachri";
 int umur = 18;
+String daerah = "bangka";
 
-System.out.println("nama :" + nama + "Umur :" + umur);
+System.out.println("nama :" + nama + "Umur :" + umur + "daerah" + daerah);
 
 }
 }
