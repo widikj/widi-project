@@ -7,5 +7,7 @@ int umur = 18;
 
 System.out.println("nama :" + nama + "Umur :" + umur);
 
+System.out.prinln("nama saya iqbal dan saya baru saja mengedit file ini");
+
 }
 }
